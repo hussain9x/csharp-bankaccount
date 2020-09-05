@@ -1,0 +1,12 @@
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/bin/Debug/netcoreapp3.1/csharp-bankaccount.deps.json
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/bin/Debug/netcoreapp3.1/csharp-bankaccount.runtimeconfig.json
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/bin/Debug/netcoreapp3.1/csharp-bankaccount.runtimeconfig.dev.json
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/bin/Debug/netcoreapp3.1/csharp-bankaccount.dll
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/bin/Debug/netcoreapp3.1/csharp-bankaccount.pdb
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.csprojAssemblyReference.cache
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.AssemblyInfoInputs.cache
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.AssemblyInfo.cs
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.csproj.CoreCompileInputs.cache
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.dll
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.pdb
+/Users/hussainal-sulaiman/Google Drive/development/vscode-projects/csharp-bankaccount/obj/Debug/netcoreapp3.1/csharp-bankaccount.genruntimeconfig.cache
