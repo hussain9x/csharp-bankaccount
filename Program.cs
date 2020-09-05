@@ -17,12 +17,14 @@ namespace csharp_bankaccount
 
             BankAccount account2 = new BankAccount(50);
             Console.WriteLine("new account created with 50 Riyals balance");
-            account.deposit(20);
+            Console.Write("the balance is : ");
+            Console.WriteLine(account2.getBalance());
+            account2.deposit(20);
             Console.WriteLine("deposited 20 Riyals");
-            account.withdraw(15);
+            account2.withdraw(15);
             Console.WriteLine("withdrawed 15 Riyals");
             Console.Write("the balance is : ");
-            Console.WriteLine(account.getBalance());
+            Console.WriteLine(account2.getBalance());
 
 
 
@@ -36,8 +38,8 @@ namespace csharp_bankaccount
 
         }
 
-        public BankAccount(double balance){
-            this.balance=balance;
+        public BankAccount(double amount){
+            this.balance=amount;
 
         }
 
@@ -46,10 +48,10 @@ namespace csharp_bankaccount
         }
 
         public void deposit(double amount){
-            this.balance+=amount;
+            this.balance= this.balance + amount;
         }
         public void withdraw(double amount){
-            this.balance-=amount;
+            this.balance = this.balance - amount;
         }
 
 
